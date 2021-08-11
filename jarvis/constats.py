@@ -1,0 +1,6 @@
+RUST = 'cargo'
+TYPESCRIPT = 'yarn'
+PYTHON = 'pip'
+JUPITER = 'conda'
+LEAN = 'leanpkg'
+SAVED_PATH = 'JARVIS_PROJ_PATH'
